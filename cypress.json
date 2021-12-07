@@ -1,0 +1,15 @@
+{
+    "env": {
+        "WeatherPageURL": "https://weather.com/?Goto=Redirected",
+        "WeatherPgeTitle" :"National and Local Weather Radar, Daily Forecast, Hurricane and information from The Weather Channel and weather.com",
+        "MenuButton": ".MainMenu--icon--KnYY0",
+        "GoToPolicy" :"[data-testid=\"privacyPolicy\"]",
+        "PolicyPageTitle" :"Privacy Policy",
+        "Polocy14Title": "Lei Geral de Proteção de Dados Pessoais (LGPD) Notice",
+        "Polocy14Text": "#lgpd-notice-new"
+
+
+
+    }
+
+}

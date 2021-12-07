@@ -1,0 +1,23 @@
+{
+  "name": "project_qa",
+  "version": "1.0.0",
+  "description": "cyprss project for beg",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+
+  },
+  "keywords": [
+    "est",
+    "cypres",
+    "automation",
+    "framework"
+  ],
+  "author": "jihen",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
+
